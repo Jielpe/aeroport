@@ -6,8 +6,10 @@ public class Aeroport {
 	public static int nbAvionsAuSol;
 	public static int nbAvionsEnVol;
 	
-	public Aeroport() {
-		
+	
+	public Aeroport() 
+	{
+		System.out.println("Un aeroport est créé !");
 	}
 
 }
